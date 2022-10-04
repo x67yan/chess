@@ -1,5 +1,5 @@
 # yxy_cpp
-Project: Chess 
+Project: Chess //
 Author: Xueyao Yan 
         Benyu Yan
         Shuyang Teng 
